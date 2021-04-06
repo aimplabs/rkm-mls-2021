@@ -1,7 +1,7 @@
 
 
 # Machine Learning Systems, 2021
-# Ramakrishna Mission & Vivekananda Educational Research Institute (RKMVERI)
+### Ramakrishna Mission & Vivekananda Educational Research Institute (RKMVERI)
 
 This course aims to teach the fundamental principles of various machine learning and deep learning techniques with a major emphasis on how such techniques find applications in numerous engineering systems. This course 
 is divided into three parts: computing and system components, classical machine learning, and deep learning with pytorch. The emphasis of this course is on practical applications, however, there will be scopes to explore theoretical connections depending on the students' interest. 
